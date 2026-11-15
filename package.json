@@ -1,0 +1,13 @@
+{
+  "name": "bilard-vr-serwer",
+  "version": "1.0.0",
+  "description": "Serwer gry online Bilard VR (przekaznik WebSocket, pokoje z kodem)",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
